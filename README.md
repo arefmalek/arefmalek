@@ -11,6 +11,10 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 
+* 🚀 Some non-tech goals right now are:
+  + Becoming a better cook
+  + Getting better at my second language
+  + Working out more
 -->
 ### Hi! I'm Aref 🌱
 
@@ -20,16 +24,13 @@ I'm currently a university student and love to make things on the side. You can 
 
 Right now I'm working a lot with Vision and general ML, but I'm trying to keep an open mind towards all aspects of tech that excite me. 
 
-* 💻 some Tech stuff I want to learn:
+* 💻 Stuff I plan on learning soon:
   + GANs
   + Graphics Programming (Ray Tracer has been in the works for a while now)
   + Functional Programming
   + Building an electric skateboard
   + Video editing 
-* 🚀 Some non-tech goals right now are:
-  + Becoming a better cook
-  + Getting better at my second language
-  + Working out more
+
 
 - 💬 Ask me about: Anything! I mainly work on AI/ML right now, but a student must always stay curious :^)
 - 📫 How to reach me: Contact form on my website ("Contact Me" button)
