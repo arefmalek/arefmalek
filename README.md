@@ -30,6 +30,7 @@ Right now I'm working a lot with Vision and general ML, but I'm trying to keep a
   + Functional Programming
   + Building an electric skateboard
   + Video editing 
+  + Sound Design, Making Beats
 
 
 - 💬 Ask me about: Anything! I mainly work on AI/ML right now, but a student must always stay curious :^)
