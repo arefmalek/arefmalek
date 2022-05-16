@@ -24,6 +24,10 @@ I'm currently a university student and love to make things on the side. You can 
 
 Right now I'm working a lot with Vision and general ML, but I'm trying to keep an open mind towards all aspects of tech that excite me. 
 
+- 🔭 I’m currently working on a Ray Tracer, **a hobby** tiktok food account
+- 🌱 I’m currently learning beat-making
+
+
 * 💻 Stuff I plan on learning soon:
   + GANs
   + Graphics Programming (Ray Tracer has been in the works for a while now)
@@ -31,7 +35,6 @@ Right now I'm working a lot with Vision and general ML, but I'm trying to keep a
   + Building an electric skateboard
   + Video editing 
   + Sound Design, Making Beats
-
 
 - 💬 Ask me about: Anything! I mainly work on AI/ML right now, but a student must always stay curious :^)
 - 📫 How to reach me: Contact form on my website ("Contact Me" button)
