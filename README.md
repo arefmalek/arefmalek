@@ -21,20 +21,21 @@ Here are some ideas to get you started:
 I'm currently a university student and love to make things on the side. You can find some more about me on this profile or [my website](https://arefmalek.me/).
 
 
-
-Right now I'm working a lot with Vision and general ML, but I'm trying to keep an open mind towards all aspects of tech that excite me. 
-
-- 🔭 I’m currently working on a Ray Tracer, **a hobby** tiktok food account
-- 🌱 I’m currently learning beat-making
+I'm always trying to explore new areas of CS, but currently I am interested in AI and Algorithms. In school, however, I'm currently registered for Virtual Reality and Operating Systems, so I'm all over the place.
 
 
-* 💻 Stuff I plan on learning soon:
-  + GANs
-  + Graphics Programming (Ray Tracer has been in the works for a while now)
+- 🔭 I’m currently working on a Blog series, and scaling a passion project of mine.
+- 📖 I’m currently learning more Javascript in my free time to finally port my Python projects to web 
+
+
+* 💻 Here are some things in tech I'm planning on learning soon
+  + Graphics (Ray Tracer has been in the works for a while now, now I'm all in with this VR course)
   + Functional Programming
-  + Building an electric skateboard
-  + Video editing 
-  + Sound Design, Making Beats
+* 🌱 Outside of Tech, here are other things I'm working towards:
+  + Staying active and lifting more 💪
+  + Learning Arabic 
+  + Finally finishing 1984 👁
+
 
 - 💬 Ask me about: Anything! I mainly work on AI/ML right now, but a student must always stay curious :^)
 - 📫 How to reach me: Contact form on my website ("Contact Me" button)
