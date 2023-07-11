@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 -->
 ### Hi! I'm Aref 🌱
 
-I'm currently a university student and love to make things on the side. You can find some more about me on this profile or [my website](https://arefmalek.me/).
+I'm currently a university student and love to make things on the side. You can find some more about me on this profile or [my website](https://arefmalek.github.io/).
 
 
 I'm always trying to explore new areas of CS, but currently I am interested in AI and Algorithms. In school, however, I'm currently registered for Virtual Reality and Operating Systems, so I'm all over the place.
