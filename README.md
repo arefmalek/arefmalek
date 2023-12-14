@@ -20,25 +20,25 @@ Here are some ideas to get you started:
 
 I'm currently a university student and love to make things on the side. You can find some more about me on this profile or [my website](https://arefmalek.github.io/).
 
+In my final semester of CS, I'm hoping to learn a bunch more about fundamental CS topics, specifically Compilers and Networking! In the past, I really enjoyed coursework with ML, Algorithms, and OS, but I'm trying to get more out of my comfort zone :).
 
-I'm always trying to explore new areas of CS, but currently I am interested in AI and Algorithms. In school, however, I'm currently registered for Virtual Reality and Operating Systems, so I'm all over the place.
+Professionally I've been all over the place, recently I've recently just completed an internship at Tesla where I worked a a full-stack dev on the Energy Product Software Team. 
 
+#### Previously I've been
+- 🔥 An intern at NASA Langley working on localization algorithms for wildfires (using multi-spectral imaging!). Was very cool experience for research exposure
+- 📽 Worked on the AWS Panorama team where we launched a sideloading application for the Panorama devices
+- 💾 TA for computer architecture at Purdue!
 
-- 🔭 I’m currently working on a Blog series, and scaling a passion project of mine.
-- 📖 I’m currently learning more Javascript in my free time to finally port my Python projects to web 
+#### There are some things I want to do in the near future
 
+- 🩺 Get active again! I'm looking to lift again and hopefully return to swimming in my final semester. We'll see if I'm active and in shape again (hope so!)
+- ⚒ Tinkering more. My best times were definitely when I had time to explore interests with small passion projects. I would really like to get into that in my final semester
+- 📚 Read a book or two. Be it self help or other interest, I want to move my habits of consuming content online to books, I think it'll be sustainable to avoid the allusion of choice with internet information (especially on sensitive topics).
 
-* 💻 Here are some things in tech I'm planning on learning soon
-  + Graphics (Ray Tracer has been in the works for a while now, now I'm all in with this VR course)
-  + Functional Programming
-* 🌱 Outside of Tech, here are other things I'm working towards:
-  + Staying active and lifting more 💪
-  + Learning Arabic 
-  + Finally finishing 1984 👁
+All in all, I'm someone that really wants to reap the benefits of getting out of ones comfort zone, but that's easier said than done! I trying to do it one day at a time :)
 
-
-- 💬 Ask me about: Anything! I mainly work on AI/ML right now, but a student must always stay curious :^)
-- 📫 How to reach me: Contact form on my website ("Contact Me" button)
+- 💬 Ask me about: Anything! My interests are changing a lot recently, but that also means I'm open to talk about what I've learned and more importantly hear more :^)
+- 📫 How to reach me: Linkedin is pretty good, an inmail will pretty much always work
 
 
 
