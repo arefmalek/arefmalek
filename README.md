@@ -15,10 +15,9 @@ Here are some ideas to get you started:
   + Becoming a better cook
   + Getting better at my second language
   + Working out more
--->
-### Hi! I'm Aref 🌱
 
-I'm currently a university student and love to make things on the side. You can find some more about me on this profile or [my website](https://arefmalek.github.io/).
+
+  I'm currently a university student and love to make things on the side. You can find some more about me on this profile or [my website](https://arefmalek.github.io/).
 
 In my final semester of CS, I'm hoping to learn a bunch more about fundamental CS topics, specifically Compilers and Networking! In the past, I really enjoyed coursework with ML, Algorithms, and OS, but I'm trying to get more out of my comfort zone :).
 
@@ -40,6 +39,10 @@ All in all, I'm someone that really wants to reap the benefits of getting out of
 - 💬 Ask me about: Anything! My interests are changing a lot recently, but that also means I'm open to talk about what I've learned and more importantly hear more :^)
 - 📫 How to reach me: Linkedin is pretty good, an inmail will pretty much always work
 
+-->
+### Hi! I'm Aref 🌱
+
+Forever a work in progress, just have to keep pushing - [read more](https://arefmalek.github.io/).
 
 
 
